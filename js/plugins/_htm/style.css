@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 4px 12px;
+    display: inline-block;
+    background: linear-gradient(0deg, rgb(33, 33, 54) 0%, rgb(23, 74, 121));
+    border-radius: 12px;
+    box-shadow: 0px 0px 2px #000;
+    color: white;
+    text-shadow: 0px 1px 0px #333;
+}
